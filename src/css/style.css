@@ -1,0 +1,78 @@
+header{
+    position: sticky;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+.nav-item{
+    padding: 0em 1em;
+}
+
+.nav-link{
+    text-align: center;
+}
+
+nav navbar navbar-expand-lg{
+    background-color: #0c2d48;
+}
+/* Section Présentation*/
+
+#presentationMain{
+    background-color: #B1D4E0;
+    width: 100%;
+}
+    .monLogo{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #presentationPara{
+        text-align: center;
+    }
+
+    #formation{
+    text-align: center;
+    }
+
+    #experience{
+        text-align: center; 
+        
+    }
+
+/* Section Compétences*/
+#competences{
+    background-color: #2E8BC0;
+}
+    #softSkills{
+        display: inline-block;
+        width: 50%;
+        text-align: center;
+    }
+
+    #hardSkills{
+        display: inline-block;
+        width: auto;
+        text-align: center;
+    }
+
+/* Section Réalisations*/
+#realisations{
+    background-color: #145DA0;
+}
+
+    #siteWeb{
+        text-align: center;
+    }
+    #blog{
+        text-align: center;
+    }
+
+footer {
+    position: sticky;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
